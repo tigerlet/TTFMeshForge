@@ -116,3 +116,9 @@ The TTFMeshForge GUI provides a user-friendly interface for:
 ## License
 
 MIT License
+
+## Author
+
+Yuming Xu
+
+---
